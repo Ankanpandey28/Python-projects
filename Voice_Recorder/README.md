@@ -41,10 +41,6 @@ python V_R.py
 --recording0.wav → Saved using scipy.io.wavfile.write
 --recording1.wav → Saved using wavio.write
 Both files will be saved in the Voice_Recorder project folder.
-Notes
-Ensure your microphone supports the number of channels selected.
-Mono (1 channel) works on most built-in microphones.
-WAV files are uncompressed audio files, suitable for further processing.
 #Notes
 -Ensure your microphone supports the number of channels selected.
 -Mono (1 channel) works on most built-in microphones.
